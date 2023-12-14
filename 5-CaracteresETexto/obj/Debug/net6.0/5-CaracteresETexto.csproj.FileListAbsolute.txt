@@ -1,0 +1,14 @@
+C:\Users\vagne\OneDrive\Documents\CURSO\C# PARTE 1\AprendendoCSharp\5-CaracteresETexto\bin\Debug\net6.0\5-CaracteresETexto.exe
+C:\Users\vagne\OneDrive\Documents\CURSO\C# PARTE 1\AprendendoCSharp\5-CaracteresETexto\bin\Debug\net6.0\5-CaracteresETexto.deps.json
+C:\Users\vagne\OneDrive\Documents\CURSO\C# PARTE 1\AprendendoCSharp\5-CaracteresETexto\bin\Debug\net6.0\5-CaracteresETexto.runtimeconfig.json
+C:\Users\vagne\OneDrive\Documents\CURSO\C# PARTE 1\AprendendoCSharp\5-CaracteresETexto\bin\Debug\net6.0\5-CaracteresETexto.dll
+C:\Users\vagne\OneDrive\Documents\CURSO\C# PARTE 1\AprendendoCSharp\5-CaracteresETexto\bin\Debug\net6.0\5-CaracteresETexto.pdb
+C:\Users\vagne\OneDrive\Documents\CURSO\C# PARTE 1\AprendendoCSharp\5-CaracteresETexto\obj\Debug\net6.0\5-CaracteresETexto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vagne\OneDrive\Documents\CURSO\C# PARTE 1\AprendendoCSharp\5-CaracteresETexto\obj\Debug\net6.0\5-CaracteresETexto.AssemblyInfoInputs.cache
+C:\Users\vagne\OneDrive\Documents\CURSO\C# PARTE 1\AprendendoCSharp\5-CaracteresETexto\obj\Debug\net6.0\5-CaracteresETexto.AssemblyInfo.cs
+C:\Users\vagne\OneDrive\Documents\CURSO\C# PARTE 1\AprendendoCSharp\5-CaracteresETexto\obj\Debug\net6.0\5-CaracteresETexto.csproj.CoreCompileInputs.cache
+C:\Users\vagne\OneDrive\Documents\CURSO\C# PARTE 1\AprendendoCSharp\5-CaracteresETexto\obj\Debug\net6.0\5-CaracteresETexto.dll
+C:\Users\vagne\OneDrive\Documents\CURSO\C# PARTE 1\AprendendoCSharp\5-CaracteresETexto\obj\Debug\net6.0\refint\5-CaracteresETexto.dll
+C:\Users\vagne\OneDrive\Documents\CURSO\C# PARTE 1\AprendendoCSharp\5-CaracteresETexto\obj\Debug\net6.0\5-CaracteresETexto.pdb
+C:\Users\vagne\OneDrive\Documents\CURSO\C# PARTE 1\AprendendoCSharp\5-CaracteresETexto\obj\Debug\net6.0\5-CaracteresETexto.genruntimeconfig.cache
+C:\Users\vagne\OneDrive\Documents\CURSO\C# PARTE 1\AprendendoCSharp\5-CaracteresETexto\obj\Debug\net6.0\ref\5-CaracteresETexto.dll
