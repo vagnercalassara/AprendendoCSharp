@@ -1,0 +1,11 @@
+#Pastas
+bin/
+obj/
+.vs/
+
+
+#Arquivos
+*.gz
+*.tmproj
+*.7z
+*.vsidx
