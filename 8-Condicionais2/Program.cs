@@ -1,5 +1,5 @@
 ﻿var data = DateTime.Today;
-Console.WriteLine($"Executando projeto 8 - Condicionais, inicio em: {data}");
+Console.WriteLine($"Executando projeto 8 - Condicionais, início em: {data}");
 
 int? idade = 19;
 int? quatidadePessoas = 2;
